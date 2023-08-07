@@ -1,5 +1,5 @@
 # DiagramasVTM
-Diagramas de classe de algumas classes do VTM 18.2 gerados no astah, utilizando engenharia reversa a partir do código fonte do software de referência.
+Diagramas de classe de algumas classes do VTM 18.2 gerados no astah, utilizando engenharia reversa a partir do código fonte do software de referência. <br/>
 Não contém todas os diretórios/classes do software de referência, então gerei as mais importantes para o meu contexto.
 
 
